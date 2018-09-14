@@ -1,0 +1,5468 @@
+{
+  "code": 200,
+  "data": {
+    "numFound": 3100,
+    "results": [
+      {
+        "number": "CC628989229J00105192803",
+        "id": "105192803",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ628989220",
+          "id": 62898922,
+          "url": "http://special.zhaopin.com/sh/2014/11109/ztxjr052834",
+          "name": "中腾信金融信息服务(上海)有限公司",
+          "size": {
+            "code": "5",
+            "name": "1000-9999人"
+          },
+          "type": {
+            "code": "4",
+            "name": "合资"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC628989229J00105192803.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "10K-17K",
+        "emplType": "全职",
+        "jobName": "大数据工程师",
+        "industry": "180000,210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.538258",
+          "lon": "113.957553"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-02 19:01:05",
+        "createDate": "2018-06-05 11:40:46",
+        "endDate": "2018-07-05 11:40:46",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "带薪年假",
+          "补充医疗保险",
+          "定期体检"
+        ],
+        "saleType": 100,
+        "feedbackRation": 0,
+        "score": 10000,
+        "resumeCount": 51,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": ""
+      },
+      {
+        "number": "CC271117532J00045944302",
+        "id": "45944302",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "79",
+              "name": "软件研发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件研发工程师"
+        },
+        "company": {
+          "number": "CZ271117530",
+          "id": 27111753,
+          "url": "https://company.zhaopin.com/CZ271117530.htm",
+          "name": "深圳米筐科技有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC271117532J00045944302.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "9K-18K",
+        "emplType": "全职",
+        "jobName": "python开发工程师（数据）",
+        "industry": "160400,180000,100100",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.525353",
+          "lon": "113.939728"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2039",
+              "name": "南山区"
+            }
+          ],
+          "display": "深圳-南山区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 10:17:53",
+        "createDate": "2018-06-27 19:24:36",
+        "endDate": "2018-07-27 19:24:36",
+        "welfare": [
+          "每年多次调薪",
+          "五险一金",
+          "年底双薪",
+          "弹性工作",
+          "定期体检"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9756,
+        "score": 659.2247,
+        "resumeCount": 31,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "https://fileihr.zhaopin.com/027/111/027111753/logo/da99c01d-cd39-449b-8e75-7a57f5cdee50.png",
+        "tags": [],
+        "vipLevel": 1002,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "97%"
+      },
+      {
+        "number": "CC566985081J00117573605",
+        "id": "117573605",
+        "jobType": {
+          "items": [
+            {
+              "code": "160400",
+              "name": "IT质量管理/测试/配置管理"
+            },
+            {
+              "code": "695",
+              "name": "软件测试"
+            }
+          ],
+          "display": "IT质量管理/测试/配置管理,软件测试"
+        },
+        "company": {
+          "number": "CZ566985080",
+          "id": 56698508,
+          "url": "https://company.zhaopin.com/CZ566985080.htm",
+          "name": "广州艾科网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC566985081J00117573605.htm",
+        "workingExp": {
+          "code": "1",
+          "name": "1年以下"
+        },
+        "eduLevel": {
+          "code": "12",
+          "name": "中专"
+        },
+        "salary": "3K-5K",
+        "emplType": "全职",
+        "jobName": "python实习助理/双休",
+        "industry": "210500,160400,160000,160200",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.557836",
+          "lon": "113.877107"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2039",
+              "name": "南山区"
+            }
+          ],
+          "display": "深圳-南山区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:58:20",
+        "createDate": "2018-07-03 09:58:19",
+        "endDate": "2018-08-02 09:58:19",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "全勤奖"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9545,
+        "score": 649.925,
+        "resumeCount": 99,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "//company.zhaopin.com/CompanyLogo/20170928/DB5A1B9FDB4F8812411F935CD819208F.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "95%"
+      },
+      {
+        "number": "CC562550032J90250031000",
+        "id": "31238827635",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ562550030",
+          "id": 56255003,
+          "url": "https://company.zhaopin.com/CZ562550030.htm",
+          "name": "深圳市八斗才数据有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/562550032250031.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "10K-15K",
+        "emplType": "全职",
+        "jobName": "Python开发工程师（深圳）",
+        "industry": "210500,160400,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2039",
+              "name": "南山区"
+            }
+          ],
+          "display": "深圳-南山区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:14:20",
+        "createDate": "2018-07-03 09:10:04",
+        "endDate": "2018-08-02 09:10:04",
+        "welfare": [
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "带薪年假",
+          "补充医疗保险"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.98,
+        "score": 646.1032,
+        "resumeCount": 125,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "98%"
+      },
+      {
+        "number": "CC566985188J00116610507",
+        "id": "116610507",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2040",
+              "name": "Java开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,Java开发工程师"
+        },
+        "company": {
+          "number": "CZ566985180",
+          "id": 56698518,
+          "url": "https://company.zhaopin.com/CZ566985180.htm",
+          "name": "广州动点网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC566985188J00116610507.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "Python开发工程师助理",
+        "industry": "210500,160000,160400,200302",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.580897",
+          "lon": "113.883902"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2041",
+              "name": "宝安区"
+            }
+          ],
+          "display": "深圳-宝安区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:46:02",
+        "createDate": "2018-07-03 09:46:02",
+        "endDate": "2018-08-02 09:46:02",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "年终分红"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9685,
+        "score": 645.6787,
+        "resumeCount": 123,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "//company.zhaopin.com/CompanyLogo/20170928/851C63AC242459BF1830F7A1687E5ECF.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "96%"
+      },
+      {
+        "number": "CC382743818J00098537406",
+        "id": "98537406",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ382743810",
+          "id": 38274381,
+          "url": "https://company.zhaopin.com/CZ382743810.htm",
+          "name": "深圳市瑞云科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC382743818J00098537406.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "salary": "7K-9K",
+        "emplType": "全职",
+        "jobName": "python开发工程师（渲染）",
+        "industry": "160000,210500,160400",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.514453",
+          "lon": "113.914678"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 10:18:44",
+        "createDate": "2018-06-29 17:40:47",
+        "endDate": "2018-07-29 17:40:47",
+        "welfare": [
+          "五险一金",
+          "每年多次调薪",
+          "年终分红",
+          "绩效奖金",
+          "带薪年假"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0,
+        "score": 610.75555,
+        "resumeCount": 12,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": ""
+      },
+      {
+        "number": "CC253935313J90250030000",
+        "id": "31051659099",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "53",
+              "name": "互联网软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,互联网软件工程师"
+        },
+        "company": {
+          "number": "CZ253935310",
+          "id": 25393531,
+          "url": "https://company.zhaopin.com/CZ253935310.htm",
+          "name": "深圳市掌世界网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/253935313250030.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "Python开发工程师",
+        "industry": "160600,210500,160100,160400",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2038",
+              "name": "罗湖区"
+            }
+          ],
+          "display": "深圳-罗湖区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:14:31",
+        "createDate": "2018-07-03 09:14:04",
+        "endDate": "2018-08-02 09:14:04",
+        "welfare": [],
+        "saleType": 0,
+        "feedbackRation": 0.2,
+        "score": 607.0137,
+        "resumeCount": 89,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://campusimage.zhaopin.com/pic/cimg/Company/A//136925084998_100x100.jpg",
+        "tags": [],
+        "vipLevel": 1002,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": ""
+      },
+      {
+        "number": "CC294932033J00050355204",
+        "id": "50355204",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2034",
+              "name": "算法工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,算法工程师"
+        },
+        "company": {
+          "number": "CZ294932030",
+          "id": 29493203,
+          "url": "https://company.zhaopin.com/CZ294932030.htm",
+          "name": "深圳华策辉弘科技有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "16",
+            "name": "港澳台公司"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC294932033J00050355204.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "10K-17K",
+        "emplType": "全职",
+        "jobName": "Python算法工程师（推荐方向）",
+        "industry": "160000,160400",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.534231",
+          "lon": "114.063737"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:31:15",
+        "createDate": "2018-06-21 11:36:55",
+        "endDate": "2018-07-21 11:36:55",
+        "welfare": [
+          "五险一金",
+          "周末双休",
+          "绩效奖金",
+          "带薪年假",
+          "节日福利"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0,
+        "score": 599.8261,
+        "resumeCount": 24,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "https://fileihr.zhaopin.com/029/493/029493203/logo/059d7dc6-d091-4d78-b6da-82a950eb4ddd.png",
+        "tags": [],
+        "vipLevel": 1002,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": ""
+      },
+      {
+        "number": "CC294932033J00096250704",
+        "id": "96250704",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2034",
+              "name": "算法工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,算法工程师"
+        },
+        "company": {
+          "number": "CZ294932030",
+          "id": 29493203,
+          "url": "https://company.zhaopin.com/CZ294932030.htm",
+          "name": "深圳华策辉弘科技有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "16",
+            "name": "港澳台公司"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC294932033J00096250704.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "12K-18K",
+        "emplType": "全职",
+        "jobName": "Python算法工程师（数据挖掘）",
+        "industry": "160000,160400",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.534231",
+          "lon": "114.063737"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:31:15",
+        "createDate": "2018-06-27 11:47:14",
+        "endDate": "2018-07-27 11:47:14",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "绩效奖金",
+          "年底双薪",
+          "带薪年假"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0,
+        "score": 599.8261,
+        "resumeCount": 7,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "https://fileihr.zhaopin.com/029/493/029493203/logo/059d7dc6-d091-4d78-b6da-82a950eb4ddd.png",
+        "tags": [],
+        "vipLevel": 1002,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": ""
+      },
+      {
+        "number": "CC380376980J90250007000",
+        "id": "31227147060",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "44",
+              "name": "高级软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,高级软件工程师"
+        },
+        "company": {
+          "number": "CZ380376980",
+          "id": 38037698,
+          "url": "https://company.zhaopin.com/CZ380376980.htm",
+          "name": "北京必然如此网络技术有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/380376980250007.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "25K-35K",
+        "emplType": "全职",
+        "jobName": "Python工程师",
+        "industry": "210500,160400,180000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.571568",
+          "lon": "113.957766"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2039",
+              "name": "南山区"
+            }
+          ],
+          "display": "深圳-南山区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:54:51",
+        "createDate": "2018-06-27 15:21:53",
+        "endDate": "2018-07-27 15:21:53",
+        "welfare": [
+          "年底双薪",
+          "绩效奖金",
+          "包吃",
+          "弹性工作",
+          "定期体检"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0,
+        "score": 595.2772,
+        "resumeCount": 33,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20170831/AA8CEBD759D54D04B6DEFF81DDFC77EC.gif",
+        "tags": [],
+        "vipLevel": 1002,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": ""
+      },
+      {
+        "number": "CZ746478240J00189814601",
+        "id": "189814601",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "44",
+              "name": "高级软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,高级软件工程师"
+        },
+        "company": {
+          "number": "CZ746478240",
+          "id": 74647824,
+          "url": "https://company.zhaopin.com/CZ746478240.htm",
+          "name": "深圳市红果软件有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ746478240J00189814601.htm",
+        "workingExp": {
+          "code": "305",
+          "name": "3-5年"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "10K-15K",
+        "emplType": "全职",
+        "jobName": "c++开发工程师(Python)",
+        "industry": "210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.507866",
+          "lon": "114.057441"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:36:23",
+        "createDate": "2018-07-02 13:15:06",
+        "endDate": "2018-08-01 13:15:06",
+        "welfare": [
+          "全勤奖",
+          "带薪年假",
+          "节日福利",
+          "员工旅游",
+          "绩效奖金"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0,
+        "score": 592.1443,
+        "resumeCount": 1,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://file.ihr.zhaopin.com/074/647/074647824/logo/68625a6b-4404-40b1-a854-4b84b6050c30.jpg",
+        "tags": [],
+        "vipLevel": 1002,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": ""
+      },
+      {
+        "number": "CC387663788J90250070000",
+        "id": "31201313175",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ387663780",
+          "id": 38766378,
+          "url": "https://company.zhaopin.com/CZ387663780.htm",
+          "name": "深圳前海橙色魔方信息技术有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/387663788250070.htm",
+        "workingExp": {
+          "code": "305",
+          "name": "3-5年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "9K-13K",
+        "emplType": "全职",
+        "jobName": "Python程序员",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2037",
+              "name": "福田区"
+            }
+          ],
+          "display": "深圳-福田区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 08:43:02",
+        "createDate": "2018-06-04 22:22:05",
+        "endDate": "2018-07-04 22:22:05",
+        "welfare": [
+          "五险一金",
+          "年底双薪",
+          "带薪年假",
+          "弹性工作",
+          "定期体检"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0,
+        "score": 587.366,
+        "resumeCount": 19,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": ""
+      },
+      {
+        "number": "CC566985081J90251882000",
+        "id": "31240593173",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ566985080",
+          "id": 56698508,
+          "url": "https://company.zhaopin.com/CZ566985080.htm",
+          "name": "广州艾科网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/566985081251882.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "急招Python+人工智能开发助理",
+        "industry": "210500,160400,160000,160200",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "23.144112",
+          "lon": "113.346086"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2041",
+              "name": "宝安区"
+            }
+          ],
+          "display": "深圳-宝安区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:58:21",
+        "createDate": "2018-07-03 09:58:20",
+        "endDate": "2018-08-02 09:58:20",
+        "welfare": [
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "全勤奖",
+          "包吃"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9489,
+        "score": 583.91516,
+        "resumeCount": 104,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "//company.zhaopin.com/CompanyLogo/20170928/DB5A1B9FDB4F8812411F935CD819208F.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "94%"
+      },
+      {
+        "number": "CC435485814J00091961706",
+        "id": "91961706",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2041",
+              "name": "PHP开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,PHP开发工程师"
+        },
+        "company": {
+          "number": "CZ435485810",
+          "id": 43548581,
+          "url": "https://company.zhaopin.com/CZ435485810.htm",
+          "name": "深圳市博悦科创科技有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC435485814J00091961706.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "9K-15K",
+        "emplType": "全职",
+        "jobName": "python",
+        "industry": "160400",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.544469",
+          "lon": "114.083367"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-02 20:20:04",
+        "createDate": "2018-06-15 15:49:50",
+        "endDate": "2018-07-15 15:49:50",
+        "welfare": [
+          "五险一金",
+          "年底双薪",
+          "员工旅游",
+          "定期体检"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9697,
+        "score": 583.23785,
+        "resumeCount": 41,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "https://fileihr.zhaopin.com/043/548/043548581/logo/76ff8497-6a60-4c1e-a627-0fa68dfcff99.png",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "96%"
+      },
+      {
+        "number": "CC296721081J00130154905",
+        "id": "130154905",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ296721080D00300060546",
+          "id": 300060546,
+          "url": "https://company.zhaopin.com/CZ296721080D00300060546.htm",
+          "name": "达内时代深圳龙华分公司",
+          "size": {
+            "code": "5",
+            "name": "1000-9999人"
+          },
+          "type": {
+            "code": "9",
+            "name": "上市公司"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC296721081J00130154905.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "12",
+          "name": "中专"
+        },
+        "salary": "4K-8K",
+        "emplType": "全职",
+        "jobName": "Python软件开发实习4K起+双休",
+        "industry": "160400,210500,160000,160200",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.663926",
+          "lon": "114.035580"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-02 17:15:44",
+        "createDate": "2018-06-12 18:12:54",
+        "endDate": "2018-07-12 18:12:54",
+        "welfare": [
+          "每年多次调薪",
+          "周末双休",
+          "五险一金",
+          "绩效奖金",
+          "包吃"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9028,
+        "score": 567.27026,
+        "resumeCount": 86,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "90%"
+      },
+      {
+        "number": "CC447375014J90271944000",
+        "id": "31211199541",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ447375010",
+          "id": 44737501,
+          "url": "http://special.zhaopin.com/bf/2014/zgcrjy120485",
+          "name": "中青才智教育投资(北京)有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "1",
+            "name": "国企"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/447375014271944.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "7K-14K",
+        "emplType": "全职",
+        "jobName": "软件工程师 Python（AI）开发实习生",
+        "industry": "160400,160000,200100",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:09:56",
+        "createDate": "2018-07-03 09:09:56",
+        "endDate": "2018-08-02 09:09:56",
+        "welfare": [
+          "14薪",
+          "每年多次调薪",
+          "五险一金",
+          "年底双薪",
+          "年终分红"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9964,
+        "score": 559.1,
+        "resumeCount": 64,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "https://fileihr.zhaopin.com/044/737/044737501/logo/43b53d2e-feb8-4e74-b084-f1efa4585b6d.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "99%"
+      },
+      {
+        "number": "CC515357132J00079689202",
+        "id": "79689202",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "864",
+              "name": "WEB前端开发"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,WEB前端开发"
+        },
+        "company": {
+          "number": "CZ515357130",
+          "id": 51535713,
+          "url": "https://company.zhaopin.com/CZ515357130.htm",
+          "name": "广州海度网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC515357132J00079689202.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "Python智能开发+带薪年假",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.664085",
+          "lon": "114.036538"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2361",
+              "name": "龙华新区"
+            }
+          ],
+          "display": "深圳-龙华新区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:09:46",
+        "createDate": "2018-07-03 09:09:46",
+        "endDate": "2018-08-02 09:09:46",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "年终分红"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 554,
+        "resumeCount": 33,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20171020/0E07912A6A5E41D9B4EC0D7B99C0EA66.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CC515357132J90252442000",
+        "id": "31240890153",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "44",
+              "name": "高级软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,高级软件工程师"
+        },
+        "company": {
+          "number": "CZ515357130",
+          "id": 51535713,
+          "url": "https://company.zhaopin.com/CZ515357130.htm",
+          "name": "广州海度网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/515357132252442.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "12",
+          "name": "中专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "python开发工程师助理",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "23.133135",
+          "lon": "113.332124"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2041",
+              "name": "宝安区"
+            }
+          ],
+          "display": "深圳-宝安区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:12:43",
+        "createDate": "2018-07-03 09:12:43",
+        "endDate": "2018-08-02 09:12:43",
+        "welfare": [
+          "五险一金",
+          "年底双薪",
+          "包吃",
+          "包住",
+          "餐补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9799,
+        "score": 552.995,
+        "resumeCount": 30,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20171020/0E07912A6A5E41D9B4EC0D7B99C0EA66.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "97%"
+      },
+      {
+        "number": "CC515357132J90252043000",
+        "id": "31240216193",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ515357130",
+          "id": 51535713,
+          "url": "https://company.zhaopin.com/CZ515357130.htm",
+          "name": "广州海度网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/515357132252043.htm",
+        "workingExp": {
+          "code": "1",
+          "name": "1年以下"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "急招Python开发助理/实习生",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "23.133135",
+          "lon": "113.332124"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2041",
+              "name": "宝安区"
+            }
+          ],
+          "display": "深圳-宝安区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:12:43",
+        "createDate": "2018-07-03 09:12:43",
+        "endDate": "2018-08-02 09:12:43",
+        "welfare": [
+          "五险一金",
+          "年底双薪",
+          "包吃",
+          "包住",
+          "餐补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9773,
+        "score": 552.865,
+        "resumeCount": 64,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20171020/0E07912A6A5E41D9B4EC0D7B99C0EA66.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "97%"
+      },
+      {
+        "number": "CC566985188J00115521607",
+        "id": "115521607",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2043",
+              "name": "脚本开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,脚本开发工程师"
+        },
+        "company": {
+          "number": "CZ566985180",
+          "id": 56698518,
+          "url": "https://company.zhaopin.com/CZ566985180.htm",
+          "name": "广州动点网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC566985188J00115521607.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "2K-4K",
+        "emplType": "全职",
+        "jobName": "Python开发（爬虫开发）",
+        "industry": "210500,160000,160400,200302",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.659264",
+          "lon": "114.043281"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2361",
+              "name": "龙华新区"
+            }
+          ],
+          "display": "深圳-龙华新区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:42:09",
+        "createDate": "2018-07-03 09:42:08",
+        "endDate": "2018-08-02 09:42:08",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "定期体检"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9762,
+        "score": 552.81,
+        "resumeCount": 36,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "//company.zhaopin.com/CompanyLogo/20170928/851C63AC242459BF1830F7A1687E5ECF.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "97%"
+      },
+      {
+        "number": "CC566985188J00115520307",
+        "id": "115520307",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2042",
+              "name": "C语言开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,C语言开发工程师"
+        },
+        "company": {
+          "number": "CZ566985180",
+          "id": 56698518,
+          "url": "https://company.zhaopin.com/CZ566985180.htm",
+          "name": "广州动点网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC566985188J00115520307.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "2K-4K",
+        "emplType": "全职",
+        "jobName": "Python开发（智能开发）",
+        "industry": "210500,160000,160400,200302",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.659264",
+          "lon": "114.043281"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2361",
+              "name": "龙华新区"
+            }
+          ],
+          "display": "深圳-龙华新区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:42:08",
+        "createDate": "2018-07-03 09:42:08",
+        "endDate": "2018-08-02 09:42:08",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "年终分红"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9737,
+        "score": 552.685,
+        "resumeCount": 32,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "//company.zhaopin.com/CompanyLogo/20170928/851C63AC242459BF1830F7A1687E5ECF.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "97%"
+      },
+      {
+        "number": "CC515357132J90252468000",
+        "id": "31240891023",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2043",
+              "name": "脚本开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,脚本开发工程师"
+        },
+        "company": {
+          "number": "CZ515357130",
+          "id": 51535713,
+          "url": "https://company.zhaopin.com/CZ515357130.htm",
+          "name": "广州海度网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/515357132252468.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "Python开发助理",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "23.133135",
+          "lon": "113.332124"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2039",
+              "name": "南山区"
+            }
+          ],
+          "display": "深圳-南山区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:12:37",
+        "createDate": "2018-07-03 09:12:37",
+        "endDate": "2018-08-02 09:12:37",
+        "welfare": [
+          "五险一金",
+          "年底双薪",
+          "包吃",
+          "包住",
+          "餐补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.973,
+        "score": 552.65,
+        "resumeCount": 37,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20171020/0E07912A6A5E41D9B4EC0D7B99C0EA66.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "97%"
+      },
+      {
+        "number": "CC566985081J90252151000",
+        "id": "31242247473",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ566985080",
+          "id": 56698508,
+          "url": "https://company.zhaopin.com/CZ566985080.htm",
+          "name": "广州艾科网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/566985081252151.htm",
+        "workingExp": {
+          "code": "0",
+          "name": "无经验"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "python开发工程师助理/双休",
+        "industry": "210500,160400,160000,160200",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "23.144112",
+          "lon": "113.346086"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:53:30",
+        "createDate": "2018-07-03 09:53:29",
+        "endDate": "2018-08-02 09:53:29",
+        "welfare": [
+          "节日福利",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "加班补助"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9643,
+        "score": 552.215,
+        "resumeCount": 58,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "//company.zhaopin.com/CompanyLogo/20170928/DB5A1B9FDB4F8812411F935CD819208F.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "96%"
+      },
+      {
+        "number": "CC566985188J00116575907",
+        "id": "116575907",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "863",
+              "name": "移动互联网开发"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,移动互联网开发"
+        },
+        "company": {
+          "number": "CZ566985180",
+          "id": 56698518,
+          "url": "https://company.zhaopin.com/CZ566985180.htm",
+          "name": "广州动点网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC566985188J00116575907.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "Python爬虫技术开发",
+        "industry": "210500,160000,160400,200302",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.580897",
+          "lon": "113.883902"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2041",
+              "name": "宝安区"
+            }
+          ],
+          "display": "深圳-宝安区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:46:17",
+        "createDate": "2018-07-03 09:46:16",
+        "endDate": "2018-08-02 09:46:16",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "年终分红"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9615,
+        "score": 552.075,
+        "resumeCount": 43,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "//company.zhaopin.com/CompanyLogo/20170928/851C63AC242459BF1830F7A1687E5ECF.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "96%"
+      },
+      {
+        "number": "CC515357132J00079677302",
+        "id": "79677302",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ515357130",
+          "id": 51535713,
+          "url": "https://company.zhaopin.com/CZ515357130.htm",
+          "name": "广州海度网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC515357132J00079677302.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "急招Python开发/助理岗",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.664085",
+          "lon": "114.036538"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2361",
+              "name": "龙华新区"
+            }
+          ],
+          "display": "深圳-龙华新区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:08:47",
+        "createDate": "2018-07-03 09:08:47",
+        "endDate": "2018-08-02 09:08:47",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "补充医疗保险"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.96,
+        "score": 552,
+        "resumeCount": 43,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20171020/0E07912A6A5E41D9B4EC0D7B99C0EA66.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "96%"
+      },
+      {
+        "number": "CC565538130J00080456106",
+        "id": "80456106",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "44",
+              "name": "高级软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,高级软件工程师"
+        },
+        "company": {
+          "number": "CZ565538130",
+          "id": 56553813,
+          "url": "https://company.zhaopin.com/CZ565538130.htm",
+          "name": "广州玖维信息科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC565538130J00080456106.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "Python智能开发+双休",
+        "industry": "210500,160000,160500,160400",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.567722",
+          "lon": "113.866046"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2039",
+              "name": "南山区"
+            }
+          ],
+          "display": "深圳-南山区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:34:19",
+        "createDate": "2018-07-03 09:34:18",
+        "endDate": "2018-08-02 09:34:18",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "年终分红"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.95,
+        "score": 551.5,
+        "resumeCount": 77,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "//company.zhaopin.com/CompanyLogo/20170928/6B2F210C6F6F0BD6E3B9245D7A91AC17.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "95%"
+      },
+      {
+        "number": "CC566985188J00116612507",
+        "id": "116612507",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "47",
+              "name": "数据库开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,数据库开发工程师"
+        },
+        "company": {
+          "number": "CZ566985180",
+          "id": 56698518,
+          "url": "https://company.zhaopin.com/CZ566985180.htm",
+          "name": "广州动点网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC566985188J00116612507.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "初级Python助理（智能开发)",
+        "industry": "210500,160000,160400,200302",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.580897",
+          "lon": "113.883902"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2041",
+              "name": "宝安区"
+            }
+          ],
+          "display": "深圳-宝安区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:46:13",
+        "createDate": "2018-07-03 09:46:12",
+        "endDate": "2018-08-02 09:46:12",
+        "welfare": [
+          "五险一金",
+          "周末双休",
+          "年底双薪",
+          "年终分红",
+          "补充医疗保险"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9412,
+        "score": 551.06,
+        "resumeCount": 31,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "//company.zhaopin.com/CompanyLogo/20170928/851C63AC242459BF1830F7A1687E5ECF.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "94%"
+      },
+      {
+        "number": "CC566985188J00116591107",
+        "id": "116591107",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "44",
+              "name": "高级软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,高级软件工程师"
+        },
+        "company": {
+          "number": "CZ566985180",
+          "id": 56698518,
+          "url": "https://company.zhaopin.com/CZ566985180.htm",
+          "name": "广州动点网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC566985188J00116591107.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "初级python开发工程师/双休",
+        "industry": "210500,160000,160400,200302",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.580897",
+          "lon": "113.883902"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2041",
+              "name": "宝安区"
+            }
+          ],
+          "display": "深圳-宝安区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:46:16",
+        "createDate": "2018-07-03 09:46:15",
+        "endDate": "2018-08-02 09:46:15",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "年终分红"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.94,
+        "score": 551,
+        "resumeCount": 40,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "//company.zhaopin.com/CompanyLogo/20170928/851C63AC242459BF1830F7A1687E5ECF.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "94%"
+      },
+      {
+        "number": "CC515357132J00079678502",
+        "id": "79678502",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "79",
+              "name": "软件研发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件研发工程师"
+        },
+        "company": {
+          "number": "CZ515357130",
+          "id": 51535713,
+          "url": "https://company.zhaopin.com/CZ515357130.htm",
+          "name": "广州海度网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC515357132J00079678502.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "Python开发+项目奖金",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.664085",
+          "lon": "114.036538"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2361",
+              "name": "龙华新区"
+            }
+          ],
+          "display": "深圳-龙华新区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:09:46",
+        "createDate": "2018-07-03 09:09:45",
+        "endDate": "2018-08-02 09:09:45",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "年终分红"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9394,
+        "score": 550.97,
+        "resumeCount": 31,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20171020/0E07912A6A5E41D9B4EC0D7B99C0EA66.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "93%"
+      },
+      {
+        "number": "CC515357132J00079705902",
+        "id": "79705902",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2043",
+              "name": "脚本开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,脚本开发工程师"
+        },
+        "company": {
+          "number": "CZ515357130",
+          "id": 51535713,
+          "url": "https://company.zhaopin.com/CZ515357130.htm",
+          "name": "广州海度网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC515357132J00079705902.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "Python爬虫技术开发",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.664085",
+          "lon": "114.036538"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:09:50",
+        "createDate": "2018-07-03 09:09:49",
+        "endDate": "2018-08-02 09:09:49",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "补充医疗保险"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9362,
+        "score": 550.81,
+        "resumeCount": 41,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20171020/0E07912A6A5E41D9B4EC0D7B99C0EA66.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "93%"
+      },
+      {
+        "number": "CC566985188J00116602207",
+        "id": "116602207",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "79",
+              "name": "软件研发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件研发工程师"
+        },
+        "company": {
+          "number": "CZ566985180",
+          "id": 56698518,
+          "url": "https://company.zhaopin.com/CZ566985180.htm",
+          "name": "广州动点网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC566985188J00116602207.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "急招Python开发助理/可实习/双休",
+        "industry": "210500,160000,160400,200302",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.580897",
+          "lon": "113.883902"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2041",
+              "name": "宝安区"
+            }
+          ],
+          "display": "深圳-宝安区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:46:14",
+        "createDate": "2018-07-03 09:46:14",
+        "endDate": "2018-08-02 09:46:14",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "年终分红"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9333,
+        "score": 550.665,
+        "resumeCount": 41,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "//company.zhaopin.com/CompanyLogo/20170928/851C63AC242459BF1830F7A1687E5ECF.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "93%"
+      },
+      {
+        "number": "CC140506787J00104462007",
+        "id": "104462007",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "79",
+              "name": "软件研发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件研发工程师"
+        },
+        "company": {
+          "number": "CZ140506780",
+          "id": 14050678,
+          "url": "https://company.zhaopin.com/CZ140506780.htm",
+          "name": "晨星资讯（深圳）有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "2",
+            "name": "外商独资"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC140506787J00104462007.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "10K-15K",
+        "emplType": "全职",
+        "jobName": "python开发工程师",
+        "industry": "180000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.536467",
+          "lon": "114.021560"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-06-27 14:43:00",
+        "createDate": "2018-06-27 14:42:59",
+        "endDate": "2018-07-27 14:42:59",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "股票期权",
+          "年终分红"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.6111,
+        "score": 550.555,
+        "resumeCount": 52,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20151208/C803847083794D52B602B01FAAC93E1A.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最近",
+        "rate": "61%"
+      },
+      {
+        "number": "CC566985081J00117575005",
+        "id": "117575005",
+        "jobType": {
+          "items": [
+            {
+              "code": "200500",
+              "name": "IT运维/技术支持"
+            },
+            {
+              "code": "315",
+              "name": "IT技术支持/维护工程师"
+            }
+          ],
+          "display": "IT运维/技术支持,IT技术支持/维护工程师"
+        },
+        "company": {
+          "number": "CZ566985080",
+          "id": 56698508,
+          "url": "https://company.zhaopin.com/CZ566985080.htm",
+          "name": "广州艾科网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC566985081J00117575005.htm",
+        "workingExp": {
+          "code": "1",
+          "name": "1年以下"
+        },
+        "eduLevel": {
+          "code": "12",
+          "name": "中专"
+        },
+        "salary": "3K-5K",
+        "emplType": "全职",
+        "jobName": "初级python开发助理",
+        "industry": "210500,160400,160000,160200",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.557836",
+          "lon": "113.877107"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2039",
+              "name": "南山区"
+            }
+          ],
+          "display": "深圳-南山区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:58:24",
+        "createDate": "2018-07-03 09:58:24",
+        "endDate": "2018-08-02 09:58:24",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "全勤奖"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9048,
+        "score": 549.24,
+        "resumeCount": 35,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "//company.zhaopin.com/CompanyLogo/20170928/DB5A1B9FDB4F8812411F935CD819208F.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "90%"
+      },
+      {
+        "number": "CC515357132J00081589302",
+        "id": "81589302",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "679",
+              "name": "手机软件开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,手机软件开发工程师"
+        },
+        "company": {
+          "number": "CZ515357130",
+          "id": 51535713,
+          "url": "https://company.zhaopin.com/CZ515357130.htm",
+          "name": "广州海度网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC515357132J00081589302.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "Python助理（智能开发）",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.567277",
+          "lon": "113.866704"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2041",
+              "name": "宝安区"
+            }
+          ],
+          "display": "深圳-宝安区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:12:48",
+        "createDate": "2018-07-03 09:12:47",
+        "endDate": "2018-08-02 09:12:47",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "年终分红"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.8966,
+        "score": 548.83,
+        "resumeCount": 29,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20171020/0E07912A6A5E41D9B4EC0D7B99C0EA66.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "89%"
+      },
+      {
+        "number": "CC153470115J00057726010",
+        "id": "57726010",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "79",
+              "name": "软件研发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件研发工程师"
+        },
+        "company": {
+          "number": "CZ153470110",
+          "id": 15347011,
+          "url": "https://company.zhaopin.com/CZ153470110.htm",
+          "name": "北京海量数据技术股份有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC153470115J00057726010.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "12K-18K",
+        "emplType": "全职",
+        "jobName": "Python开发工程师（深圳）",
+        "industry": "160000,160400,160200",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.505148",
+          "lon": "114.059581"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-06-22 14:27:25",
+        "createDate": "2018-06-22 14:27:25",
+        "endDate": "2018-07-22 14:27:25",
+        "welfare": [
+          "五险一金",
+          "周末双休",
+          "节日福利",
+          "员工旅游",
+          "定期体检"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.88,
+        "score": 548,
+        "resumeCount": 30,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20161206/492C16D1490D4591B0EB96E4CD2D63D8.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最近",
+        "rate": "88%"
+      },
+      {
+        "number": "CC515357132J00081588602",
+        "id": "81588602",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "679",
+              "name": "手机软件开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,手机软件开发工程师"
+        },
+        "company": {
+          "number": "CZ515357130",
+          "id": 51535713,
+          "url": "https://company.zhaopin.com/CZ515357130.htm",
+          "name": "广州海度网络科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC515357132J00081588602.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "Python开发助理双休",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.567277",
+          "lon": "113.866704"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2041",
+              "name": "宝安区"
+            }
+          ],
+          "display": "深圳-宝安区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:12:48",
+        "createDate": "2018-07-03 09:12:48",
+        "endDate": "2018-08-02 09:12:48",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "年终分红"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.8667,
+        "score": 547.335,
+        "resumeCount": 30,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20171020/0E07912A6A5E41D9B4EC0D7B99C0EA66.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "86%"
+      },
+      {
+        "number": "CZ696283130J00083848802",
+        "id": "83848802",
+        "jobType": {
+          "items": [
+            {
+              "code": "5006000",
+              "name": "实习生/培训生/储备干部"
+            },
+            {
+              "code": "299",
+              "name": "实习生"
+            }
+          ],
+          "display": "实习生/培训生/储备干部,实习生"
+        },
+        "company": {
+          "number": "CZ696283130",
+          "id": 69628313,
+          "url": "https://company.zhaopin.com/CZ696283130.htm",
+          "name": "深圳市鑫路历程科技有限公司",
+          "size": {
+            "code": "1",
+            "name": "20人以下"
+          },
+          "type": {
+            "code": "",
+            "name": ""
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ696283130J00083848802.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "salary": "4K-6K",
+        "emplType": "校园",
+        "jobName": "免费培训程序员(c/c++/php/java/python)",
+        "industry": "201100",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.780701",
+          "lon": "113.881879"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-02 23:19:46",
+        "createDate": "2018-06-04 21:18:32",
+        "endDate": "2018-07-04 21:18:32",
+        "welfare": [
+          "创业公司",
+          "房补",
+          "免费班车",
+          "包吃",
+          "包住"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0,
+        "score": 547.2702,
+        "resumeCount": 20,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "https://fileihr.zhaopin.com/069/628/069628313/logo/cea86003-dbc9-466f-9e6f-355af9660018.jpg",
+        "tags": [],
+        "vipLevel": 1002,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": true,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": ""
+      },
+      {
+        "number": "CC497661382J00062059103",
+        "id": "62059103",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2043",
+              "name": "脚本开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,脚本开发工程师"
+        },
+        "company": {
+          "number": "CZ497661380",
+          "id": 49766138,
+          "url": "https://company.zhaopin.com/CZ497661380.htm",
+          "name": "深圳布谷鸟信息科技有限公司",
+          "size": {
+            "code": "5",
+            "name": "1000-9999人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC497661382J00062059103.htm",
+        "workingExp": {
+          "code": "305",
+          "name": "3-5年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "10K-20K",
+        "emplType": "全职",
+        "jobName": "Python开发工程师",
+        "industry": "210500,170500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.508925",
+          "lon": "113.923803"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-06-25 10:05:51",
+        "createDate": "2018-05-11 09:39:00",
+        "endDate": "2018-07-10 09:39:00",
+        "welfare": [
+          "创业公司",
+          "每年多次调薪",
+          "加班补助",
+          "绩效奖金",
+          "五险一金"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9091,
+        "score": 544.895,
+        "resumeCount": 69,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20170926/726F1E630E4440348E7FCD3B23F56876.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最近",
+        "rate": "90%"
+      },
+      {
+        "number": "CC000638929J00124393705",
+        "id": "124393705",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ000638920",
+          "id": 63892,
+          "url": "http://special.zhaopin.com/pagepublish/63892/index.html",
+          "name": "上海微创软件股份有限公司",
+          "size": {
+            "code": "5",
+            "name": "1000-9999人"
+          },
+          "type": {
+            "code": "4",
+            "name": "合资"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC000638929J00124393705.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "python工程师",
+        "industry": "160000,160400,210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.543099",
+          "lon": "114.057868"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-06-04 17:58:41",
+        "createDate": "2018-06-04 17:58:41",
+        "endDate": "2018-09-12 17:58:41",
+        "welfare": [],
+        "saleType": 0,
+        "feedbackRation": 0.4615,
+        "score": 543.075,
+        "resumeCount": 83,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20091030/50C88631410043B5AC49FBB0664C237B.gif",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最近",
+        "rate": ""
+      },
+      {
+        "number": "CC216494030J00095253304",
+        "id": "95253304",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "79",
+              "name": "软件研发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件研发工程师"
+        },
+        "company": {
+          "number": "CZ216494030",
+          "id": 21649403,
+          "url": "https://company.zhaopin.com/CZ216494030.htm",
+          "name": "顺丰科技有限公司",
+          "size": {
+            "code": "5",
+            "name": "1000-9999人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC216494030J00095253304.htm",
+        "workingExp": {
+          "code": "305",
+          "name": "3-5年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "薪资面议",
+        "emplType": "全职",
+        "jobName": "python工程师",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.524486",
+          "lon": "113.940137"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-06-25 18:03:14",
+        "createDate": "2018-06-25 18:03:13",
+        "endDate": "2018-07-25 18:03:13",
+        "welfare": [
+          "五险一金",
+          "餐补",
+          "通讯补贴",
+          "带薪年假",
+          "弹性工作"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0,
+        "score": 540,
+        "resumeCount": 16,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最近",
+        "rate": ""
+      },
+      {
+        "number": "CC217000520J00045668912",
+        "id": "45668912",
+        "jobType": {
+          "items": [
+            {
+              "code": "2090000",
+              "name": "教育/培训"
+            },
+            {
+              "code": "131",
+              "name": "培训师/讲师"
+            }
+          ],
+          "display": "教育/培训,培训师/讲师"
+        },
+        "company": {
+          "number": "CZ217000520D00112051716",
+          "id": 112051716,
+          "url": "https://company.zhaopin.com/CZ217000520D00112051716.htm",
+          "name": "中公教育广东分公司",
+          "size": {
+            "code": "6",
+            "name": "10000人以上"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC217000520J00045668912.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "10K-15K",
+        "emplType": "全职",
+        "jobName": "IT培训讲师（Python）",
+        "industry": "201100",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.717843",
+          "lon": "114.254270"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-06-12 09:41:01",
+        "createDate": "2018-06-12 09:41:00",
+        "endDate": "2018-07-12 09:41:00",
+        "welfare": [
+          "五险一金",
+          "绩效奖金",
+          "弹性工作",
+          "带薪年假",
+          "定期体检"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0,
+        "score": 540,
+        "resumeCount": 18,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最近",
+        "rate": ""
+      },
+      {
+        "number": "CC120143601J90284535000",
+        "id": "31243910166",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ120143600",
+          "id": 12014360,
+          "url": "http://inspur.zhaopin.com/",
+          "name": "浪潮集团有限公司",
+          "size": {
+            "code": "6",
+            "name": "10000人以上"
+          },
+          "type": {
+            "code": "1",
+            "name": "国企"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/120143601284535.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "12K-18K",
+        "emplType": "全职",
+        "jobName": "python开发工程师",
+        "industry": "160000,160400,160200",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 10:00:35",
+        "createDate": "2018-07-03 10:00:35",
+        "endDate": "2018-08-02 10:00:35",
+        "welfare": [
+          "五险一金",
+          "弹性工作",
+          "定期体检",
+          "节日福利"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0,
+        "score": 536.24,
+        "resumeCount": 93,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20080202/FC037012F1F24D14936B8B5121E71674.gif",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": ""
+      },
+      {
+        "number": "CZ898720360J00135658505",
+        "id": "135658505",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ898720360",
+          "id": 89872036,
+          "url": "https://company.zhaopin.com/CZ898720360.htm",
+          "name": "深圳市克乐科技有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ898720360J00135658505.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "python开发工程师",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-06-21 15:18:30",
+        "createDate": "2018-06-21 15:18:29",
+        "endDate": "2018-12-18 15:18:29",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 23,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最近",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ898720360J00135652505",
+        "id": "135652505",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ898720360",
+          "id": 89872036,
+          "url": "https://company.zhaopin.com/CZ898720360.htm",
+          "name": "深圳市克乐科技有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ898720360J00135652505.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "python 开发工程师",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-06-21 15:18:13",
+        "createDate": "2018-06-21 15:18:13",
+        "endDate": "2018-12-18 15:18:13",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 14,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最近",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ898726160J00142508001",
+        "id": "142508001",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ898726160",
+          "id": 89872616,
+          "url": "https://company.zhaopin.com/CZ898726160.htm",
+          "name": "深圳市红河红科技有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ898726160J00142508001.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "（急聘）python开发工程师",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.535576",
+          "lon": "113.954246"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-02 09:40:12",
+        "createDate": "2018-07-02 09:40:12",
+        "endDate": "2018-08-01 09:40:12",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 127,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ898726160J00164204401",
+        "id": "164204401",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ898726160",
+          "id": 89872616,
+          "url": "https://company.zhaopin.com/CZ898726160.htm",
+          "name": "深圳市红河红科技有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ898726160J00164204401.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "初级python开发工程师",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-02 09:40:40",
+        "createDate": "2018-07-02 09:40:40",
+        "endDate": "2018-08-01 09:40:40",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 75,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ898726160J00164200701",
+        "id": "164200701",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ898726160",
+          "id": 89872616,
+          "url": "https://company.zhaopin.com/CZ898726160.htm",
+          "name": "深圳市红河红科技有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ898726160J00164200701.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "python工程师",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-02 09:40:30",
+        "createDate": "2018-07-02 09:40:30",
+        "endDate": "2018-08-01 09:40:30",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 46,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ898726160J00164189901",
+        "id": "164189901",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ898726160",
+          "id": 89872616,
+          "url": "https://company.zhaopin.com/CZ898726160.htm",
+          "name": "深圳市红河红科技有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ898726160J00164189901.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "python开发工程师助理/双休",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-02 09:47:05",
+        "createDate": "2018-07-02 09:47:05",
+        "endDate": "2018-08-01 09:47:05",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 44,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CC435485814J00085956006",
+        "id": "85956006",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ435485810",
+          "id": 43548581,
+          "url": "https://company.zhaopin.com/CZ435485810.htm",
+          "name": "深圳市博悦科创科技有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC435485814J00085956006.htm",
+        "workingExp": {
+          "code": "305",
+          "name": "3-5年"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "10K-15K",
+        "emplType": "全职",
+        "jobName": "python工程师",
+        "industry": "160400",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.495838",
+          "lon": "113.919651"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-06-29 08:20:56",
+        "createDate": "2018-06-05 16:20:04",
+        "endDate": "2018-07-05 16:20:04",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "每年多次调薪",
+          "加班补助"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 25,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "https://fileihr.zhaopin.com/043/548/043548581/logo/76ff8497-6a60-4c1e-a627-0fa68dfcff99.png",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最近",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ718501340J00095407107",
+        "id": "95407107",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ718501340",
+          "id": 71850134,
+          "url": "https://company.zhaopin.com/CZ718501340.htm",
+          "name": "深圳市佳创科技有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ718501340J00095407107.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "python工程师",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:17:56",
+        "createDate": "2018-07-03 09:17:56",
+        "endDate": "2018-08-02 09:17:56",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 42,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ723351840J00142428401",
+        "id": "142428401",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ723351840",
+          "id": 72335184,
+          "url": "https://company.zhaopin.com/CZ723351840.htm",
+          "name": "深圳市深为软件技术有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ723351840J00142428401.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "python工程师",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.537442",
+          "lon": "114.026302"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:16:04",
+        "createDate": "2018-07-03 09:16:03",
+        "endDate": "2018-08-02 09:16:03",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 43,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ723351840J00142413401",
+        "id": "142413401",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ723351840",
+          "id": 72335184,
+          "url": "https://company.zhaopin.com/CZ723351840.htm",
+          "name": "深圳市深为软件技术有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ723351840J00142413401.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "python开发工程师（项目奖金）",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.537442",
+          "lon": "114.026302"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:15:42",
+        "createDate": "2018-07-03 09:15:42",
+        "endDate": "2018-08-02 09:15:42",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 26,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ723351840J00060582101",
+        "id": "60582101",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ723351840",
+          "id": 72335184,
+          "url": "https://company.zhaopin.com/CZ723351840.htm",
+          "name": "深圳市深为软件技术有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ723351840J00060582101.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "Python开发工程师",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.537442",
+          "lon": "114.026302"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:16:31",
+        "createDate": "2018-07-03 09:16:30",
+        "endDate": "2018-08-02 09:16:30",
+        "welfare": [
+          "五险一金",
+          "年底双薪",
+          "全勤奖",
+          "交通补助",
+          "带薪年假"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 39,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ718501340J00058389607",
+        "id": "58389607",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ718501340",
+          "id": 71850134,
+          "url": "https://company.zhaopin.com/CZ718501340.htm",
+          "name": "深圳市佳创科技有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ718501340J00058389607.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "python开发工程师",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:17:58",
+        "createDate": "2018-07-03 09:17:58",
+        "endDate": "2018-08-02 09:17:58",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 34,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ723351840J00142419301",
+        "id": "142419301",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ723351840",
+          "id": 72335184,
+          "url": "https://company.zhaopin.com/CZ723351840.htm",
+          "name": "深圳市深为软件技术有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ723351840J00142419301.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "python开发工程师",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:14:21",
+        "createDate": "2018-07-03 09:14:21",
+        "endDate": "2018-08-02 09:14:21",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 43,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ718501340J00095397507",
+        "id": "95397507",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ718501340",
+          "id": 71850134,
+          "url": "https://company.zhaopin.com/CZ718501340.htm",
+          "name": "深圳市佳创科技有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ718501340J00095397507.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "python初级开发工程师",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.542007",
+          "lon": "113.953849"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:19:48",
+        "createDate": "2018-07-03 09:19:48",
+        "endDate": "2018-08-02 09:19:48",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 70,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CC813099580J00139333507",
+        "id": "139333507",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ813099580",
+          "id": 81309958,
+          "url": "https://company.zhaopin.com/CZ813099580.htm",
+          "name": "深圳薪火科技信息有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC813099580J00139333507.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "python实习助理/双休",
+        "industry": "160000,160600,160400,210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.533013",
+          "lon": "113.930476"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 08:43:52",
+        "createDate": "2018-07-03 08:43:51",
+        "endDate": "2018-08-02 08:43:51",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "包吃"
+        ],
+        "saleType": 0,
+        "feedbackRation": 1,
+        "score": 522,
+        "resumeCount": 10,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "100%"
+      },
+      {
+        "number": "CZ718501340J00095410807",
+        "id": "95410807",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ718501340",
+          "id": 71850134,
+          "url": "https://company.zhaopin.com/CZ718501340.htm",
+          "name": "深圳市佳创科技有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ718501340J00095410807.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "初级python开发工程师",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:18:55",
+        "createDate": "2018-07-03 09:18:55",
+        "endDate": "2018-08-02 09:18:51",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9947,
+        "score": 521.735,
+        "resumeCount": 112,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "99%"
+      },
+      {
+        "number": "CZ723351840J00142432101",
+        "id": "142432101",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ723351840",
+          "id": 72335184,
+          "url": "https://company.zhaopin.com/CZ723351840.htm",
+          "name": "深圳市深为软件技术有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ723351840J00142432101.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "初级python开发工程师",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.537442",
+          "lon": "114.026302"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-03 09:16:10",
+        "createDate": "2018-07-03 09:16:10",
+        "endDate": "2018-08-02 09:16:10",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9946,
+        "score": 521.73,
+        "resumeCount": 84,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "99%"
+      },
+      {
+        "number": "CZ898726160J00093528401",
+        "id": "93528401",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ898726160",
+          "id": 89872616,
+          "url": "https://company.zhaopin.com/CZ898726160.htm",
+          "name": "深圳市红河红科技有限公司",
+          "size": {
+            "code": "4",
+            "name": "500-999人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ898726160J00093528401.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "python开发工程师",
+        "industry": "160400,210500,160000",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.535576",
+          "lon": "113.954246"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            }
+          ],
+          "display": "深圳"
+        },
+        "applyType": "1",
+        "updateDate": "2018-07-02 09:39:41",
+        "createDate": "2018-07-02 09:39:40",
+        "endDate": "2018-08-01 09:39:40",
+        "welfare": [
+          "14薪",
+          "五险一金",
+          "全勤奖",
+          "餐补",
+          "房补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9933,
+        "score": 521.665,
+        "resumeCount": 37,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "99%"
+      },
+      {
+        "number": "CC703291527J90250391000",
+        "id": "31242250885",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2040",
+              "name": "Java开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,Java开发工程师"
+        },
+        "company": {
+          "number": "CZ703291520",
+          "id": 70329152,
+          "url": "https://company.zhaopin.com/CZ703291520.htm",
+          "name": "深圳市编玩边学教育科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/703291527250391.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "10K-12K",
+        "emplType": "全职",
+        "jobName": "python课程设计师",
+        "industry": "201100,210500,160600,160400",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "22.547324",
+          "lon": "113.987610"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "765",
+              "name": "深圳"
+            },
+            {
+              "code": "2039",
+              "name": "南山区"
+            }
+          ],
+          "display": "深圳-南山区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-06-29 19:31:00",
+        "createDate": "2018-06-29 19:30:59",
+        "endDate": "2018-07-29 19:30:59",
+        "welfare": [
+          "节日福利",
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "股票期权"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9851,
+        "score": 521.255,
+        "resumeCount": 50,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20161206/666E258A711D4EA1B19441C3B0660E54.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "positionLabel": "",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最近",
+        "rate": "98%"
+      }
+    ],
+    "debugInfo": [],
+    "facets": [],
+    "extend": "",
+    "method": "",
+    "taskId": "f1300379-c0d8-4b65-b803-3a9a62a46833",
+    "scores": null
+  }
+}
